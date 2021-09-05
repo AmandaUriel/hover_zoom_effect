@@ -1,2 +1,3 @@
-# hover_with_clip_rect
-hover a image and get a zoom effect on the image inside the box
+# Image of how it looks like
+This project was made more for studies, like work with different css file and some effects
+![alt text](https://i.imgur.com/Oxlb7lN.png)
