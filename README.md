@@ -1,3 +1,8 @@
-# Image of how it looks like
-This project was made more for studies, like work with different css file and some effects
-![alt text](https://i.imgur.com/Oxlb7lN.png)
+<div align="center">
+  <h1>How it looks like:</h1>
+  <img src="img/TEJ0KmW.gif" title="cool gif">
+    <p>
+      Site:
+      <a href="https://madelineuriel.github.io/hover_with_clip_rect/">https://madelineuriel.github.io/hover_with_clip_rect/</a>
+    </p>
+</div>
